@@ -2,7 +2,12 @@
 
 This project analyzes energy and sustainability-related metrics such as energy production and renewable energy usage across US regions to determine the optimal location for the new data center of Intel, a leader in semiconductor manufacturing.
 
-## Data Sourc
+## Dashboard Preview & Full Tableau File
+Below is a preview of the interactive dashboard composed of the key visualizations created in this project. You can also download the full Tableau workbook here:
+[https://drive.google.com/file/d/1lmjbzir_dAyJbKTu6S1sGS1vXcJCZ6Mm/view?usp=sharing](url)
+![Intel Dashboard Preview](Intel-Dashboard-Preview.png)
+
+## Data Source
 
 This data was provided by Intel's Sustainability Team, who compiled data regarding US regions' energy generation, demand, and renewable energy usage during 2022.
 
