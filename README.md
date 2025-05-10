@@ -2,9 +2,9 @@
 
 This project analyzes energy and sustainability-related metrics such as energy production and renewable energy usage across US regions to determine the optimal location for the new data center of Intel, a leader in semiconductor manufacturing.
 
-## Dashboard Preview & Full Tableau File
+## Dashboard Preview & Full Tableau Workbook
 Below is a preview of the interactive dashboard composed of the key visualizations created in this project. You can also download the full Tableau workbook here:
-[https://drive.google.com/file/d/1lmjbzir_dAyJbKTu6S1sGS1vXcJCZ6Mm/view?usp=sharing](url)
+[Full Workbook](https://drive.google.com/file/d/1lmjbzir_dAyJbKTu6S1sGS1vXcJCZ6Mm/view?usp=sharing)
 ![Intel Dashboard Preview](Intel-Dashboard-Preview.png)
 
 ## Data Source
@@ -30,4 +30,4 @@ Using Tableau, I created six visualizations and an interactive dashboard:
 
 ## Contact
 
-LinkedIn: [www.linkedin.com/in/jaydon-anyikam](url)
+[LinkedIn](www.linkedin.com/in/jaydon-anyikam)
