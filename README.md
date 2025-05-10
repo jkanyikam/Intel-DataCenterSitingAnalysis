@@ -30,4 +30,4 @@ Using Tableau, I created six visualizations and an interactive dashboard:
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/jaydon-anyikam)
+[LinkedIn](www.linkedin.com/in/jaydon-anyikam) [Email](jkanyikam@gmail.com)
